@@ -3,3 +3,4 @@ edit after unstage
 change file 1
 change file 2
 Add change 1-1
+Change file 1-2
