@@ -2,3 +2,4 @@ this is new file 1
 edit after unstage
 change file 1
 change file 2
+Add change 1-1
