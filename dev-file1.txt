@@ -1,9 +1,6 @@
 this is test dev file 1
 chnge file 1 and save
 
-<<<<<<< ours
 Change F1 file from other user
-=======
 
 change f1 file form local
->>>>>>> theirs
