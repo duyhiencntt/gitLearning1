@@ -4,3 +4,6 @@ chnge file 1 and save
 Change F1 file from other user
 
 change f1 file form local
+make some change
+
+change after staging
