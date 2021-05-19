@@ -7,3 +7,10 @@ change f1 file form local
 make some change
 
 change after staging
+asaf
+f
+á
+fas
+dfa
+sf
+test change after staging 2
