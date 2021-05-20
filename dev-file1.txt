@@ -22,3 +22,15 @@ Change dev-file on feature 1-4
 
 Change on Dev branch
 Make more change on Dev
+
+test staging file
+
+Change after staging
+change 2 after staging
+
+test staging
+
+change on working directory
+Finish F1
+
+Finish F2
